@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237427447189",
+    "firebase_url": "https://test-57d69.firebaseio.com",
+    "project_id": "test-57d69",
+    "storage_bucket": "test-57d69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237427447189:android:5e85aea8313493d089929c",
+        "android_client_info": {
+          "package_name": "com.applicationdemerdequimarchepas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237427447189-hgmqjqt5fvv7hhcmd8m56tk3qp1r403i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUXWf59KK7_6vdTkXiepn-2gASWp45CnE "
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237427447189-au987fqh14uair7voaef4k114m0btho6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
